@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Generated from ui/resources.qrc, rebuilt automatically when the app starts
+ui/resources_rc.py
+
+# Environments and editors
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Packaging output
+build/
+dist/
